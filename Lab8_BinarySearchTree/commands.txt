@@ -1,0 +1,4 @@
+javac BSTApp.java
+java -Xss7m BSTApp
+C:\Users\patto\OneDrive\Documents\CS303\Lab_8\Input_keys.txt
+C:\Users\patto\OneDrive\Documents\CS303\Lab_8\search_keys.txt
